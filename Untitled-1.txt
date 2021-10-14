@@ -1,0 +1,27 @@
+que es git
+    es un controlador de version de sofware
+   contacto del profe ; 3195854646
+                        William ariza
+                        Wilarizav@gmail.com
+
+crear una carpeta = repositorio
+
+
+comando git : 
+        git --version (version de git)
+        pwd (ver donde estoy)
+        mkdir gitpractica = crear carpeta con nombre
+        init = inicia el repositorio
+        commit (versionar un cambio)
+        git add . sube todos los cambios
+        git commit -m "mensaje"
+        git remote -v
+
+
+para commits :
+    1 caules son mis cambios
+    2 descipcion de los cambios
+
+conectar nuestro repo local con el remote.
+    1 crear el repo
+    2 git remote add origin git@github.com:fdzamora/gitpractica.git
